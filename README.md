@@ -55,5 +55,5 @@ Hi 👋, I'm associate professor Dr. Onur Uca, A passionate researcher from Turk
 
 
 <p align="center">
-  <a href="https://angular-buch.com"><img src="https://snhs.sch.im/site/uploads/blog/35/image/Screen_Shot_2018_02_04_at_19_44_00.png.d/287a5a4722203afc3c32b05b21cb8055/750_500_ddcb18ccf0405296b89121a26ee76a21.png?m=1519909123" alt="Angular - Das große Praxisbuch – Grundlagen, fortgeschrittene Themen und Best Practices (4. Auflage)"></img></a>
+  <a href="https://angular-buch.com"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS51vrJ0PxX0BxMfNWPb1c_JzBLS_XhuD65ktDKF6gcHech7F1PEWu8YrNUF8B3Y0a6Zc8&usqp=CAU"></img></a>
 </p>
