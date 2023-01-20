@@ -2,8 +2,8 @@ Hi 👋, I'm Dr. Onur Uca
 
 A passionate researcher from Turkey
 
-🔭 I’m currently working at Mersin University as a assciate professor.
-University name: Mersin University / Turkey
+🔭 I’m currently working at Mersin University as an associate professor.
+University name: Mersin University / Sociology Department / Turkey
 Offical link : http://apbs.mersin.edu.tr/onuruca
 👯 I’m looking to collaborate with NLP and computation social science projects.
 
