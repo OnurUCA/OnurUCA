@@ -39,11 +39,21 @@ Hi 👋, I'm associate professor Dr. Onur Uca, A passionate researcher from Turk
 
 
 
+
+
 <p></br></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/ucaonur/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vidyabhandary"/></a> 
+
+
+
+
+
+<p align="center">  
   <a href="https://twitter.com/onuruca33_uca" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
  
-</p>  
 
-![Profil Pic](https://picsum.photos/seed/picsum/1200/300)
+
+<p align="center">
+  <a href="https://angular-buch.com"><img src="https://snhs.sch.im/site/uploads/blog/35/image/Screen_Shot_2018_02_04_at_19_44_00.png.d/287a5a4722203afc3c32b05b21cb8055/750_500_ddcb18ccf0405296b89121a26ee76a21.png?m=1519909123" alt="Angular - Das große Praxisbuch – Grundlagen, fortgeschrittene Themen und Best Practices (4. Auflage)"></img></a>
+</p>
