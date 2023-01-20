@@ -11,11 +11,10 @@
 
 
 
-Hi 👋, I'm associate professor Dr. Onur Uca, A passionate researcher from Turkey.
+Hi 👋, 
 
+🔭 I’m currently working at [Mersin University](http://apbs.mersin.edu.tr/onuruca) as an associate professor at Sociology department
 
-
-🔭 I’m currently working at [Mersin University](http://apbs.mersin.edu.tr/onuruca) as an associate professor.
 
 
 
