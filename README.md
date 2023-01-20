@@ -6,6 +6,10 @@ Hi 👋, I'm Dr. Onur Uca, A passionate researcher from Turkey.
 
 🌱 I’m currently learning NLP models, big data analysis, social theory, Python libraries, web design with Django and react, etc.
 
-💬 Ask me about AI tech for social good. 📫 How to reach me onuruca33@gmail.com and onuruca@mersin.edu.tr
+💬 Ask me about AI tech for social good. 
+
+📫 How to reach me onuruca33@gmail.com and onuruca@mersin.edu.tr
+
+:selfie:	to follow my interest : https://www.linkedin.com/in/ucaonur/
 
 👨‍💻 All of my papers are available at the google scholar link: https://scholar.google.com/citations?user=RnVvi7IAAAAJ&hl=tr&oi=ao
