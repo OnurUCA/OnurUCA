@@ -1,9 +1,8 @@
 
-![page_down_pic](https://www.inspiritscholars.com/wp-content/uploads/2022/01/ai-for-social-good-projects.png)
 
 
 
-#About Me
+**About Me**
 
 
 
@@ -53,7 +52,5 @@ Hi 👋, I'm associate professor Dr. Onur Uca, A passionate researcher from Turk
   <a href="https://twitter.com/onuruca33_uca" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
  
 
+![page_down_pic](https://www.inspiritscholars.com/wp-content/uploads/2022/01/ai-for-social-good-projects.png)
 
-<p align="center">
-  <a href="https://angular-buch.com"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS51vrJ0PxX0BxMfNWPb1c_JzBLS_XhuD65ktDKF6gcHech7F1PEWu8YrNUF8B3Y0a6Zc8&usqp=CAU"></img></a>
-</p>
