@@ -35,7 +35,7 @@ Hi 👋,
 
 💬 Ask me about AI tech for social good. 
 
-📫 How to reach me onuruca33@gmail.com or onuruca@mersin.edu.tr or [my website](https://socialics.tech/)
+📫 How to reach me onuruca33@gmail.com or onuruca@mersin.edu.tr or [my website](https://socialics.tech/) and [my website](https://onuruca.net/)
 
 
 👨‍💻 All of my papers are available at the [google scholar link](https://scholar.google.com/citations?user=RnVvi7IAAAAJ&hl=tr&oi=ao)
